@@ -10,6 +10,18 @@ This repo includes Official art Voicebank releases, updates, and the dataset use
 <br clear="all" />
 
 <br><br>
+# Voice Information
+
+* Androgynous, mezzo-soprano voice
+* Smooth, Crisp and controlled tone
+* Contains pitch and duration model
+* Supports:
+  * Voicing
+  * Tension
+  * Gender
+* Optimal range: f#3 to C5
+
+
 # Character Information
 | **Attribute** | **Info** |
 |--------------|---------|
