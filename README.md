@@ -9,9 +9,7 @@ This repo includes Official art Voicebank releases, updates, and the dataset use
 
 SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimally from f#3 to C5. Their voice is smooth and crisp with a controlled tone. SPORE also supports various voice parameters.
 
-
-[autopitch.wav](https://github.com/user-attachments/files/23193434/autopitch.wav)
-
+SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 <br clear="all" />
 
 # Voice Information
@@ -24,16 +22,11 @@ SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimall
   * Breath
   * Autopich
 
+# Sample
+Samples will go here
 
-# Character Information
-| **Attribute** | **Info** |
-|--------------|---------|
-| **Age** | ?? |
-| **Birthday** | TBD |
-| **Height** | 5’6” (167 cm) |
-| **Weight** | As light as a mold spore. |
-| **Pronouns** | She/They |
-| **Species** | Mold |
-| **Likes** | Quiet spaces, fruits past ripeness, white wool, bread |
-| **Dislikes** | Attention, scented candles, air purifiers |
-| **Personality** | SPORE is soft spoken, monotone, and peaceful. They are non-confrontational, however they can be quite territorial as they value their personal space. |
+# Usage Guide
+SPORE's usage guide can be found here (link later)
+
+# TERMS OF USE
+SPORE's Terms of Use can be viewed here (link later)
