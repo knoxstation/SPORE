@@ -13,7 +13,9 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 <br clear="all" />
 
 # Voice Information 
+
 <img src="Art/portrait.png" align="right" width="450">
+
 * Contains pitch and duration model 
 * Supports: 
   * Tension (TENC)
