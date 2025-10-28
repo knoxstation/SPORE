@@ -11,6 +11,7 @@ SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimall
 
 <br clear="all" />
 <br>
+
 # Voice Information
 
 * Contains pitch and duration model
