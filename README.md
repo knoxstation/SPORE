@@ -14,13 +14,12 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 
 # Voice Information
 
-* Contains pitch and duration model
+* Contains pitch and duration model <img src="Art/portrait.png" align="right" width="450">
 * Supports:
-  * Voicing
   * Tension
   * Gender
   * Breath
-  * Autopich
+  * Autopitch
 
 # Sample
 Samples will go here
