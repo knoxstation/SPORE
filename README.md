@@ -10,7 +10,6 @@ This repo includes Official art Voicebank releases, updates, and the dataset use
 SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimally from f#3 to C5. Their voice is smooth and crisp with a controlled tone. SPORE also supports various parameters.
 
 <br clear="all" />
-<br>
 
 # Voice Information
 
