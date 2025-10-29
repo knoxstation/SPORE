@@ -33,4 +33,4 @@ Samples will go here
 SPORE's usage guide can be found here (link later)
 
 # TERMS OF USE
-SPORE's Terms of Use can be viewed here (link later)
+SPORE's Terms of Use can be viewed [here](TOS.md)
