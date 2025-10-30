@@ -30,7 +30,9 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
   * Autopitch 
 
 # Sample
-Samples will go here
+<a href="https://youtu.be/NztI_VB8ojE">
+  <img src="https://github.com/user-attachments/assets/63c347ec-d914-479c-895e-06b337f13b07" width="400">
+</a>
 
 # Usage Guide
 SPORE's usage guide can be found [here](usage.md)
