@@ -50,13 +50,12 @@ Parameters can be altered by drawing a curve in the expressions menu, located at
 
 * Gender (GENC): Positive values will give them a lower-pitched, masculine voice. While negative values give her a higher-pitched, feminine voice.
 
-* Breathiness (BREC): 
+* Breathiness (BREC): Increasing breathiness will make SPORE’s voice sound airier and more whisper-like, as if more air is escaping with each note. Lowering it will make the voice sound cleaner and more solid.
 
-* Velocity (VELC):
+* Velocity (VELC): Controls the strength and speed of consonant sounds. Higher values make consonants sharper and more pronounced, while lower values soften them or make them more relaxed.
 
-* Tone Shift (SHFC):
-
-* Voicing (VOIC): 
+* Tone Shift (SHFC): Slightly shifts the overall tone color or resonance of the voice. Positive values make her sound brighter or more metallic, while negative values make her sound darker or more muffled.
+  
 
 # Autopitch
 
