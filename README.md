@@ -9,7 +9,8 @@ This repo includes Official art Voicebank releases, updates, and the dataset use
 
 SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimally from f#3 to C5. Their voice is smooth and crisp with a controlled tone. SPORE also supports various voice parameters.
 
-You can view her current releases in this repo's releases page. (Link Here)
+You can view her current releases in this repo's [releases page.
+](https://github.com/knoxstation/SPORE/releases) <br>
 
 SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 <br clear="all" />
@@ -22,7 +23,9 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 * Supports: 
   * Tension (TENC)
   * Gender (GENC)
-  * Breath (BREC)
+  * Breathiness (BREC)
+  * Velocity (VELC)
+  * Tone Shift (SHFC)
   * Voicing (VOIC)
   * Autopitch 
 
@@ -30,7 +33,13 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 Samples will go here
 
 # Usage Guide
-SPORE's usage guide can be found here (link later)
+SPORE's usage guide can be found [here](usage.md)
 
 # TERMS OF USE
 SPORE's Terms of Use can be viewed [here](TOS.md)
+
+# Contact
+Questions or comments? dont be afraid to hit me up:
+
+Website: https://knoxstation.neocities.org <br><br>
+Email: knoxstation.art@gmail.com
