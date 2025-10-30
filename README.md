@@ -27,7 +27,6 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
   * Breathiness (BREC)
   * Velocity (VELC)
   * Tone Shift (SHFC)
-  * Voicing (VOIC)
   * Autopitch 
 
 # Sample
