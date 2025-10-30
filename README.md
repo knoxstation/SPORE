@@ -18,8 +18,6 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 
 # Voice Information 
 
-<img src="Art/portrait.png" align="right" width="450">
-
 * Contains pitch and duration model 
 * Supports: 
   * Tension (TENC)
@@ -31,11 +29,11 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 
 # Sample
 <a href="https://youtu.be/NztI_VB8ojE">
-  <img src="https://github.com/user-attachments/assets/63c347ec-d914-479c-895e-06b337f13b07" width="400">
+  <img src="https://github.com/user-attachments/assets/63c347ec-d914-479c-895e-06b337f13b07" width="400"> <img src="Art/portrait.png" align="right" width="450">
 </a>
 
 # Usage Guide
-SPORE's usage guide can be found [here](usage.md)
+SPORE's usage guide can be found [here](usage.md) 
 
 # Terms of Use
 SPORE's Terms of Use can be viewed [here](TOS.md)
@@ -48,3 +46,5 @@ Email: knoxstation.art@gmail.com
 
 # 
 This voicebank is licensed under a modified version of the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License, with additional restrictions on redistribution and prohibited content as outlined in the [Terms of Use.](TOS.md)
+
+
