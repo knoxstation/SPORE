@@ -9,7 +9,8 @@ This repo includes Official art Voicebank releases, updates, and the dataset use
 
 SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimally from f#3 to C5. Their voice is smooth and crisp with a controlled tone. SPORE also supports various voice parameters.
 
-You can view her current releases in this repo's releases page. (Link Here)
+You can view her current releases in this repo's [releases page.
+](https://github.com/knoxstation/SPORE/releases) <br>
 
 SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 <br clear="all" />
