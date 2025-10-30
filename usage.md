@@ -64,3 +64,5 @@ SPORE includes an additional autopitch model based on the singing samples that c
 
 
 When using Autopitch, it is recommended to render one part at a time. Rendering an entire track may cause the program to crash. 
+
+That should be enough to get you started with using SPORE! If you have any questions, or have any issues with the voicebank, please let me know! My contact is linked in this github's README :)
