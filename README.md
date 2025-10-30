@@ -5,7 +5,8 @@
 #
 
 <img src="Art/icon.png" align="left" width="220"> SPORE is a singer created using the open source voice synthesis software, Diffsinger. At the moment, SPORE is only available in English. 
-This repo includes Official art Voicebank releases, and updates.
+This repo includes Official art Voicebank releases, and updates. 
+Their Dataset can be accessed through [Google Drive](https://drive.google.com/drive/folders/1IV71YxyMURqFACkiN6v__u_kLFggAO9s?usp=sharing)
 
 SPORE has an androgynous, mezzo-soprano voice, with their voice ranging optimally from f#3 to C5. Their voice is smooth and crisp with a controlled tone. SPORE also supports various voice parameters.
 
@@ -31,9 +32,6 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 
 # Sample
 Samples will go here
-
-# Dataset
-SPORE's Dataset can be accessed through [Google Drive](https://drive.google.com/drive/folders/1IV71YxyMURqFACkiN6v__u_kLFggAO9s?usp=sharing)
 
 # Usage Guide
 SPORE's usage guide can be found [here](usage.md)
