@@ -32,7 +32,7 @@ SPORE is voiced and managed by Knoxstation: https://knoxstation.neocities.org
 Samples will go here
 
 # Usage Guide
-SPORE's usage guide can be found here (link later)
+SPORE's usage guide can be found [here](usage.md)
 
 # TERMS OF USE
 SPORE's Terms of Use can be viewed [here](TOS.md)
