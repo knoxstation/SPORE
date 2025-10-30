@@ -35,7 +35,7 @@ Samples will go here
 # Usage Guide
 SPORE's usage guide can be found [here](usage.md)
 
-# TERMS OF USE
+# Terms of Use
 SPORE's Terms of Use can be viewed [here](TOS.md)
 
 # Contact
