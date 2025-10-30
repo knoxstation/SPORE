@@ -43,3 +43,6 @@ Questions or comments? dont be afraid to hit me up:
 
 Website: https://knoxstation.neocities.org <br><br>
 Email: knoxstation.art@gmail.com
+
+# 
+This voicebank is licensed under a modified version of the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License, with additional restrictions on redistribution and prohibited content as outlined in the [Terms of Use.](TOS.md)
