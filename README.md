@@ -36,3 +36,9 @@ SPORE's usage guide can be found [here](usage.md)
 
 # TERMS OF USE
 SPORE's Terms of Use can be viewed [here](TOS.md)
+
+# Contact
+Questions or comments? dont be afraid to hit me up:
+
+Website: https://knoxstation.neocities.org <br><br>
+Email: knoxstation.art@gmail.com
