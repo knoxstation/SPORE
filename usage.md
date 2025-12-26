@@ -12,7 +12,7 @@ In Singer Setup, make sure “Archive File Encoding” is set to Unicode (UTF-8)
 
 After installing, create a new project. In track one, hit “Select Singer” and choose SPORE by going to DiffSinger -> SPORE
 
-By default, SPORE’s phenomizer should be set to English.
+SPORE’s phenomizer must be set to English.
 
 <img width="296" height="106" alt="1" src="https://github.com/user-attachments/assets/a4a8f62f-7ca1-4263-8f32-f13aef54a07a" />
 
